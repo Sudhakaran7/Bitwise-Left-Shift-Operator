@@ -1,0 +1,53 @@
+You are given with a N list of 1's and 0's, you have fine the integer value of that binary representation of that array Using the Bitwise Left Shift Operator.
+
+Input Description:
+First line contains, N the size of the list. (1<N<1000)
+Second line contains N 0's and 1's in the list.
+
+Output Description:
+The integer representation of the given binary list.
+
+Sample Input:
+5
+1 0 0 1 0
+
+Sample Output:
+18
+
+Explanation:
+The binary representation of 10010 is 18.
+
+Sample Input:
+6
+1 1 0 0  1 1
+
+Sample Output:
+51
+
+Sample Input:
+3
+1 0 1
+
+Sample Output:
+5
+
+Sample Input:
+7
+1 1 1 1 0 0 0
+
+Sample Output:
+120
+
+Sample Input:
+6
+1 1 1 0 0 0
+
+Sample Output:
+56
+
+Sample INput:
+8
+1 1 0 0  1 1 0 0
+
+Sample Output:
+204
